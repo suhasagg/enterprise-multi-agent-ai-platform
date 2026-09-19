@@ -1,0 +1,20 @@
+server:
+  port: ${SERVER_PORT:8081}
+
+spring:
+  application:
+    name: enterprise-mcp-tools
+  ai:
+    mcp:
+      server:
+        name: enterprise-java-tools
+        version: 1.0.0
+        type: ASYNC
+        protocol: STREAMABLE
+        instructions: "Governed enterprise tools for CRM, ticketing and approvals."
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus

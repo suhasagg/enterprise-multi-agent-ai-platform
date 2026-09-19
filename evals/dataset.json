@@ -1,0 +1,18 @@
+[
+  {
+    "id": "policy-grounding",
+    "tenant_id": "acme",
+    "question": "What approval is required for a $750 refund?",
+    "expected_contains": [
+      "approval"
+    ]
+  },
+  {
+    "id": "safe-action",
+    "tenant_id": "acme",
+    "question": "Assess risk before refunding $750.",
+    "expected_contains": [
+      "approval"
+    ]
+  }
+]
