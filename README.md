@@ -412,7 +412,7 @@ Recommended next production steps:
 
 ## 15. Portfolio Description
 
-> **Enterprise Multi-Agent AI Platform** — Designed and implemented a Python/Java enterprise AI reference platform with explicit control-plane/action-plane boundaries, production-oriented reliability, security/governance, observability, testing and AI evaluation patterns. Demonstrates Principal Engineer-level system design beyond a standalone chatbot or prompt demo.
+> **Enterprise Multi-Agent AI Platform** — Designed and implemented a Python/Java enterprise AI reference platform with explicit control-plane/action-plane boundaries, production-oriented reliability, security/governance, observability, testing and AI evaluation patterns. 
 
 ## 16. Production Disclaimer
 
